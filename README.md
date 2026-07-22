@@ -85,12 +85,14 @@ Angular component exercise demonstrating property, class, and event binding fund
 <div align="center">
 
 **Languages & Backend**
-![Skills](https://skillicons.dev/icons?i=java,python,flask,js,ts,html,css)
+![Skills](https://skillicons.dev/icons?i=java,python,fastapi,js,ts,html,css)
 
 <br/>
 
 **Cloud, DevOps & Containers**
 ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux)
+
+> 🐍 Flask · 🤖 OpenAI API · ☸️ Kubernetes · 🐳 Docker
 
 <br/>
 
@@ -122,7 +124,7 @@ Angular component exercise demonstrating property, class, and event binding fund
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abhishekh002&theme=tokyonight&border=00f2fe&ring=00f2fe&fire=00f2fe&hide_border=false" width="75%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekh002&theme=tokyonight&border=00f2fe&ring=00f2fe&fire=00f2fe&hide_border=false" width="75%"/>
 
 </div>
 
@@ -139,7 +141,7 @@ Angular component exercise demonstrating property, class, and event binding fund
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekh002&theme=react-dark&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="92%"/>
+<img src="https://anuraghatp.vercel.app/api/v1/graphs/github-readme-activity-graph?username=abhishekh002&theme=react-dark&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="92%"/>
 </div>
 
 ---
