@@ -133,7 +133,9 @@ Angular component exercise demonstrating property, class, and event binding fund
 ### 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekh002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekh002&theme=onestar&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -141,7 +143,9 @@ Angular component exercise demonstrating property, class, and event binding fund
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekh002&bg_color=1a1b27&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="92%"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekh002&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
