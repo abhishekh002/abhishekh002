@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071526,100:00f2fe&height=240&section=header&text=Abhishekh%20Kumar%20Tiwari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%26%20Cloud%20DevOps&descAlignY=55&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:00c6ff&height=230&section=header&text=Abhishekh%20Kumar%20Tiwari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%26%20Cloud%20DevOps&descAlignY=55&descSize=17" width="100%" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -158,4 +158,4 @@ Angular component exercise demonstrating property, class, and event binding fund
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:071526,100:000000&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:4facfe,100:00f2fe&height=120&section=footer" width="100%" />
