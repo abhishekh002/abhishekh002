@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:00c6ff&height=230&section=header&text=Abhishekh%20Kumar%20Tiwari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20%26%20Cloud%20DevOps&descAlignY=55&descSize=17" />
+type=waving&color=0:00f2fe,50:4facfe,100:00c6ff&height=230&section=header&text=Abhishekh%20Kumar%20Tiwari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20%26%20Cloud%20DevOps&descAlignY=55&descSize=17" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
